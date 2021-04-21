@@ -1,6 +1,7 @@
-# CheatSheets
+# Cheat Sheets and Documentation
 I like cheat sheets, just want to have a place for useful ones and cheaty tools
 
+(also putting useful documentation here as well)
 ---
 
 **Markdown**
